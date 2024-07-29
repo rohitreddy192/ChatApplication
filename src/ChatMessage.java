@@ -5,7 +5,7 @@ import java.io.*;
  * When talking from a Java Client to a Java Server a lot easier to pass Java objects, no
  * need to count bytes or to wait for a line feed at the end of the frame
  */
-
+/* This is Vinay rohit reddy*/
 public class ChatMessage implements Serializable {
 
     // The different types of message sent by the Client
