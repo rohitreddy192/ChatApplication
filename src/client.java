@@ -1,7 +1,7 @@
 import java.net.*;
 import java.io.*;
 import java.util.*;
-
+/*Comment*/
 
 //The Client that can be run as a console
 public class client  {
